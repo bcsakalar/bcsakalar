@@ -1,15 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=280&section=header&text=Hi%20there,%20I'm%20Can%20Sakalar%20👋&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Systems%20Architect&descAlignY=55&descSize=25&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=280&section=header&text=Hi%20there,%20I'm%20Berke%20Can%20SAKALAR%20👋&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20Architect&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 
 <div align="center">
   <h3>Building autonomous digital brains, scalable SaaS platforms, and AI-native workflows.</h3>
   <br/>
   
-  <a href="https://linkedin.com/in/bcsakalar">
+  <a href="https://berkecansakalar.com/">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/berkecansakalar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:contact@bcsakalar.com">
+  <a href="mailto:bcan@berkecansakalar.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -18,7 +21,7 @@
 
 ## 🚀 About Me
 
-I am a **Full Stack Engineer** with a deep focus on **AI Agents**, **RAG Architectures**, and **Real-time Systems**. My passion lies in bridging the gap between complex backend logic and intuitive user experiences. I don't just write code; I engineer living systems that observe, analyze, and automate.
+I am a **Full Stack Developer** with a deep focus on **AI Agents**, **RAG Architectures**, and **Real-time Systems**. My passion lies in bridging the gap between complex backend logic and intuitive user experiences. I don't just write code; I build living systems that observe, analyze, and automate.
 
 - 🔭 I’m currently working on **Autonomous AI Agents & Vertical SaaS Architectures**.
 - 🌱 I’m currently exploring **Next.js 16 (Bleeding Edge), Vector Databases, and GraphRAG**.
@@ -65,17 +68,9 @@ I am a **Full Stack Engineer** with a deep focus on **AI Agents**, **RAG Archite
 | **🧠 LifeOS** | A personal **AI Operating System** that manages finance, memory, and daily tasks via a Knowledge Graph and Vector Search. Features an autonomous "Observer" agent. | `Node.js` `PgVector` `RAG` `Graph DB` |
 | **⚡ Synapse** | An **AI-Powered Workflow Automation** platform (Zapier alternative). Uses LLMs to generate automation flows from natural language commands. | `Next.js 16` `PostgreSQL` `BullMQ` `Gemini` |
 | **📊 InsightNode** | **Business Intelligence Agent**. Converts natural language questions into complex SQL queries, visualizes data in real-time, and ensures privacy via Adapter Pattern. | `React 19` `Tailwind v4` `AI Function Calling` |
-| **🏥 SecondOc** | **Telemedicine SaaS Backend**. Secure, HIPAA-compliant platform for second medical opinions with real-time video, DICOM analysis, and AI triage. | `Node.js` `WebRTC` `MongoDB` `AES-256` |
+| **🏥 SeconDok** | **Telemedicine SaaS Backend**. Secure, HIPAA-compliant platform for second medical opinions with real-time video, DICOM analysis, and AI triage. | `Node.js` `WebRTC` `MongoDB` `AES-256` |
 | **💇‍♂️ Kuafor** | **Vertical SaaS (ERP)**. A multi-tenant management system for beauty salons, handling appointments, inventory, and e-commerce on a single codebase. | `PostgreSQL` `Iyzico` `Subdomain Routing` |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bcsakalar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Can's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcsakalar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+| **🎮 İsim Şehir** | **Real-time Multiplayer Game**. A modern web adaptation of the classic word game featuring a custom Vanilla JS SPA router, live voting system, and anti-cheat mechanisms. | `Node.js` `Socket.io` `Vanilla JS` `MongoDB` |
 
 ---
 
