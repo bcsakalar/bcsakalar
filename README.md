@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Merhaba, Ben Berke Can Sakalar 👋</h1>
-  <h3>Senior Full-Stack Developer & System Architect | SaaS & AI Builder</h3>
+  <h3>Full-Stack Developer & System Architect | SaaS & AI Builder</h3>
   
   <p align="center">
     Yazılım geliştirmeyi sadece kod yazmak olarak değil; <b>ölçeklenebilir, dayanıklı ve akıllı sistemler</b> inşa etmek olarak görüyorum. Geleneksel SaaS platformlarından karmaşık algoritmik altyapılara ve yeni nesil otonom sistemlere kadar uçtan uca çözümler üretiyorum.
