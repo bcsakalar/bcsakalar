@@ -64,49 +64,6 @@ Yapay zeka teknolojileri sistemlerime güç katsa da, benim asıl uzmanlığım 
 ---
 
 <div align="center">
-  <h2>🚀 Öne Çıkan Mühendislik Projelerim</h2>
-</div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 MentorAI (EdTech SaaS)</h3>
-      <p><i>Karmaşık analitik algoritmalar ve gerçek zamanlı (SSE) veri akışıyla güçlendirilmiş, uçtan uca eğitim platformu.</i></p>
-      <ul>
-        <li><b>Mimari:</b> Next.js 15, React 19, Fastify (Node.js 22 LTS), PostgreSQL, Redis 7, Prisma ORM.</li>
-        <li><b>Algoritma:</b> Öğrenci performansını ölçmek için tasarladığım <i>hareketli ortalama analitik motoru</i> ve bilimsel <i>SM-2 aralıklı tekrar (Spaced Repetition)</i> algoritması entegrasyonu.</li>
-        <li><b>Ölçeklenebilirlik:</b> Server-Sent Events (SSE) ile sıfır gecikmeli veri stream'i ve Docker tabanlı güvenli deployment.</li>
-        <li><b>AI Katmanı:</b> Gemini API ve pgvector kullanarak tasarlanmış yüksek doğruluklu Hibrit RAG mekanizması.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 LifeOS (Autonomous Agent Platform)</h3>
-      <p><i>Kişisel verileri anlayan, asenkron job kuyruklarıyla (pg-boss) çalışan, olay güdümlü kişisel işletim sistemi.</i></p>
-      <ul>
-        <li><b>Mimari:</b> Node.js 20+, Express.js, PostgreSQL 16 (pgvector), Docker.</li>
-        <li><b>Sistem Tasarımı:</b> Arka plan işlemleri, cron görevleri ve asenkron anomali tespiti için <i>SKIP LOCKED</i> sorgularına dayalı dayanıklı kuyruk (Job Queue) sistemi.</li>
-        <li><b>Veri Organizasyonu:</b> Verilerin kendi kendini organize ettiği, yetim düğümleri otomatik bulan semantik "Brain" (Knowledge Graph) algoritması.</li>
-        <li><b>Optimizasyon:</b> Node.js heap optimizasyonları ile sistemi kısıtlı kaynaklı (1GB RAM) VPS'lerde dahi kayıpsız çalıştırma.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 Kurumsal CMS & Web Platformları</h3>
-      <p><i>Performans, güvenlik ve SEO odaklı özel İçerik Yönetim Sistemleri (CMS).</i></p>
-      <ul>
-        <li><b>Platformlar:</b> Mimar AI Web, Kurumsal Portallar vb.</li>
-        <li><b>Yaklaşım:</b> Dinamik içeriklerin hızlı sunulması için akıllı önbellekleme (Redis) stratejileri.</li>
-        <li><b>Güvenlik:</b> Rate-limiting, XSS ve SQL/NoSQL Injection korumaları içeren güvenlik katmanları.</li>
-        <li><b>Esneklik:</b> İstemci tarafında zengin, sunucu tarafında sağlam Role-Based Access Control (RBAC) yetkilendirme mekanizmaları.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
   <h3>İnşa Etmek İçin Kodluyorum</h3>
   <p>
     Eğer ölçeklenebilirlik, temiz kod prensipleri ve yenilikçi teknolojilerin (AI, WebRTC, SSE) bir araya geldiği projeler üzerinde konuşmak isterseniz, benimle iletişime geçmekten çekinmeyin!
