@@ -1,71 +1,65 @@
-<div align="center">
-  <h1>Merhaba, Ben Berke Can Sakalar 👋</h1>
-  <h3>Full-Stack Developer & System Architect | SaaS & AI Builder</h3>
-  
-  <p align="center">
-    Yazılım geliştirmeyi sadece kod yazmak olarak değil; <b>ölçeklenebilir, dayanıklı ve akıllı sistemler</b> inşa etmek olarak görüyorum. Geleneksel SaaS platformlarından karmaşık algoritmik altyapılara ve yeni nesil otonom sistemlere kadar uçtan uca çözümler üretiyorum.
-  </p>
+# Hi there, I'm Berke Can Sakalar! 👋
 
-  <div>
-    <a href="mailto:bcan@berkecansakalar.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/berkecansakalar/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </div>
-</div>
+I build secure, realtime, and AI-powered products end-to-end — from PostgreSQL schemas and vector search pipelines to Flutter mobile apps and production-ready full-stack systems[cite: 1].
+
+I am a **Full-Stack & Mobile Software Engineer** and the **Co-Founder & Lead Software Engineer at SeconDok**[cite: 1]. My engineering philosophy revolves around owning the entire lifecycle of a product: designing secure database layers, defining strict API contracts, handling background workers, and crafting clean, offline-aware UIs[cite: 1].
 
 ---
 
-<div align="center">
-  <h2>💻 Mühendislik Felsefem & Odak Noktalarım</h2>
-</div>
+## 🚀 Core Expertise
 
-Yapay zeka teknolojileri sistemlerime güç katsa da, benim asıl uzmanlığım **sağlam yazılım mühendisliği temellerine** dayanır. Bir projenin kalbini; doğru tasarlanmış veritabanları, olay güdümlü (event-driven) kuyruk mekanizmaları, sıfır gecikmeli veri akışları ve temiz kod mimarisi oluşturur.
-
-- 🏗️ **Sistem Mimarisi & Backend:** Node.js, Fastify ve Express ile yüksek performanslı, mikroservis veya modüler monolit mimariler. Node.js timeout limitlerini aşan *recursive scheduler* gibi özel algoritmik çözümler.
-- 🚀 **SaaS & Ürün Geliştirme:** Next.js, React ve TypeScript ile uçtan uca, SEO uyumlu ve kullanıcı deneyimi yüksek web platformları (CMS, Eğitim, Tele-sağlık).
-- 🧠 **Algoritma & Veri İşleme:** SM-2 aralıklı tekrar algoritmaları (Spaced Repetition), hareketli ortalama tabanlı analitik motorları ve karmaşık oyunlaştırma (gamification) sistemleri.
-- 🤖 **Agentic AI & RAG Sistemleri:** AI benim için bir amaç değil, güçlü bir araçtır. pgvector, Redis ve LLM API'lerini kullanarak otonom ajanlar ve semantik bilgi grafikleri (Knowledge Graphs) tasarlıyorum.
+* **Full-Stack Architecture:** Building high-performance, modular monolithic or multi-service backends using Node.js (Express, NestJS, Fastify) paired with modern web frontends (React 19, Next.js 15)[cite: 1, 2].
+* **Mobile Product Engineering:** Designing production-ready, cross-platform mobile apps with Flutter and Dart, focused on state management (Riverpod, Provider), local persistence, and real-time synchronizations[cite: 1].
+* **AI-Native Systems (RAG & Agents):** Moving beyond simple API calls to build complex semantic search pipelines, local-first privacy-centric LLM apps (Ollama), multi-agent orchestration, and structured tool calling[cite: 1].
+* **Database & Infrastructure Depth:** Advanced PostgreSQL engineering including vector search (`pgvector`), geospatial analysis (`PostGIS`), deep indexing strategies (HNSW, GIN, GiST), and containerized production deployments with Docker Compose and Nginx[cite: 1].
 
 ---
 
-<div align="center">
-  <h2>🛠️ Teknoloji Yığınım</h2>
-</div>
+## 🛠️ Technical Toolbox
 
-<div align="center">
-  <h3>Backend & Mimari</h3>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
-</div>
-
-<div align="center">
-  <h3>Frontend & Mobil</h3>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-</div>
-
-<div align="center">
-  <h3>Veritabanı, DevOps & AI</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white" />
-</div>
+| Category | Technologies & Tools |
+|--- |--- |
+| **Backend / API** | Node.js, Express, NestJS, Fastify, Python, REST APIs, WebSockets, Socket.IO, Server-Sent Events[cite: 1] |
+| **Frontend** | React 19, Next.js 15/16, Vite, Tailwind CSS, TanStack Query/Router, Zustand, Radix UI[cite: 1, 2] |
+| **Mobile** | Flutter, Dart, Riverpod, Provider, Dio, Firebase FCM, Flutter Secure Storage, Hive[cite: 1] |
+| **Databases & Queues** | PostgreSQL (16/17/18), pgvector, PostGIS, Redis, BullMQ, pg-boss, SQLite, Prisma, Drizzle ORM[cite: 1] |
+| **AI / ML Integration** | Google Gemini API, Ollama (Local LLMs), Agentic Pipelines, Tool/Function Calling, Structured JSON Outputs[cite: 1] |
+| **DevOps & Testing** | Docker, Docker Compose, Nginx, GitHub Actions, PM2, Vitest, Jest, Playwright, pytest[cite: 1, 2] |
 
 ---
 
-<div align="center">
-  <h3>İnşa Etmek İçin Kodluyorum</h3>
-  <p>
-    Eğer ölçeklenebilirlik, temiz kod prensipleri ve yenilikçi teknolojilerin (AI, WebRTC, SSE) bir araya geldiği projeler üzerinde konuşmak isterseniz, benimle iletişime geçmekten çekinmeyin!
-  </p>
-</div>
+## 📌 Featured Projects
+
+### 🪐 Life_OS & Life_Os_Pc
+A comprehensive personal AI operating system ecosystem spanning a modular Express backend and a native Windows desktop companion[cite: 1, 2]. 
+* Powered by Google Gemini Live/API and local vector memory (`pgvector`)[cite: 1].
+* Includes 80+ integrated assistant tools, automated web/desktop scraping, background agents, and background job queues via `pg-boss`[cite: 1, 2].
+
+### 🩺 SeconDok (`hasta-doctor`)
+A secure, production-oriented second-opinion telemedicine platform managing intricate role-based workflows for patients, doctors, and admins[cite: 1, 2].
+* Engineered with a highly performant Fastify backend, React 19 frontend, and Prisma[cite: 2].
+* Features secure WebRTC video/audio consultation (Agora), AES-encrypted chat, background workers via BullMQ for AI clinical summaries, and strict file-inspection filters for medical documents[cite: 1, 2].
+
+### 🛠️ CvBuilder
+An AI-assisted resume building platform leveraging a type-safe monorepo architecture[cite: 1, 2].
+* Built with Express 5, React 19, TanStack Router/Query, and Tailwind v4[cite: 1].
+* Uses `packages/shared` for strict contract compilation, `pgvector` for automatic profile and GitHub data analytics, and Puppeteer for server-side layout-faithful PDF rendering[cite: 1, 2].
+
+### 🏠 gps_family
+A real-time family safety and precise location-sharing mobile ecosystem[cite: 1, 2].
+* NestJS 11 domain module architecture backed by PostgreSQL and Prisma[cite: 1, 2].
+* Real-time tracking and instant geofencing alerts delivered seamlessly via Socket.IO and Firebase Cloud Messaging (FCM) to a clean Flutter/Riverpod mobile app[cite: 1, 2].
+
+### 🤖 Automation & Developer Tooling
+* **Scraper:** A privacy-first local CLI application built with Playwright, Drizzle, and SQLite that automates job hunting and leverages Ollama for semantic job-fit scoring[cite: 1, 2].
+* **Ai_Server_Sentinel:** A local-first Python/FastAPI triage engine that monitors Docker socket events, analyzes incidents using local LLMs, and triggers policy-controlled remediation alerts via Discord[cite: 1, 2].
+
+---
+
+## 📬 Connect With Me
+
+* 🌐 **Website:** [berkecansakalar.com](https://berkecansakalar.com)
+* 💼 **LinkedIn:** [linkedin.com/in/berkecansakalar](https://www.linkedin.com/in/berkecansakalar/)
+* 📧 **Email:** [bcan@berkecansakalar.com](mailto:bcan@berkecansakalar.com)
+* 📱 **Phone:** +90 507 095 7878
+* 📍 **Location:** İzmir, Turkey
